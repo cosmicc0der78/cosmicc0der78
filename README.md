@@ -1,4 +1,4 @@
-# Hey 👋, I am [Your Name]
+# Hey 👋, I am Indu Sree.N
 
 A Passionate Coding Enthusiast, from VIT-AP
 
