@@ -2,8 +2,6 @@
 
 A Passionate Coding Enthusiast, from VIT-AP
 
-![Profile views](https://komarev.com/ghpvc/?username=CosmicC0der78)
-
 - 📫 Can reach me at indusreen78@gmail.com
 - 👨‍💻 View my porfolio at https://cosmicc0der78.github.io/
 
