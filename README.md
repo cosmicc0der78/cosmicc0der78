@@ -1,6 +1,11 @@
-# Hey 👋, I am Indu Sree.N
+<p align="center">
+# Hi👋 there!
+
+##Welcome to my Github!
+###I'm Indu Sree.N
 
 A Passionate Coding Enthusiast, from VIT-AP
+</p>
 
 - 📫 Can reach me at indusreen78@gmail.com
 - 👨‍💻 View my porfolio at https://cosmicc0der78.github.io/
