@@ -1,8 +1,8 @@
 <p align="center">
-# Hi👋 there!
+ <h1>Hi👋 there!</h1>
 
-##Welcome to my Github!
-###I'm Indu Sree.N
+<h2>Welcome to my Github!</h2>
+<h2>I'm Indu Sree.N</h2>
 
 A Passionate Coding Enthusiast, from VIT-AP
 </p>
