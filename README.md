@@ -1,11 +1,10 @@
-<p align="center">
- <h1>Hi👋 there!</h1>
+<h1 align="center">Hi👋 there!</h1>
 
-<h2>Welcome to my Github!</h2>
-<h2>I'm Indu Sree.N</h2>
+<h2 align="center">Welcome to my Github!</h2>
+<h2 align="center">I'm Indu Sree.N</h2>
 
-A Passionate Coding Enthusiast, from VIT-AP
-</p>
+<p align="center">A Passionate Coding Enthusiast, from VIT-AP</p>
+
 
 - 📫 Can reach me at indusreen78@gmail.com
 - 👨‍💻 View my porfolio at https://cosmicc0der78.github.io/
