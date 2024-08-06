@@ -1,6 +1,6 @@
-<h1 align="center">Hi👋 there, >Welcome to my Github!</h1>
+<h1 align="center">Hi 👋 there, Welcome to my Github!</h1>
 
-<h2 align="center">I'm Indu Sree.N</h2>
+<p align="center" style="font-size: 20px;">I'm Indu Sree.N</p>
 <p align="center">A Passionate Coding Enthusiast, from VIT-AP</p>
 
 
