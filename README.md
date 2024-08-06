@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋 there, Welcome to my Github!</h1>
 
-<h2 align="center">I'm Indu Sree.N</h2>
+<h2 align="center">I'm Indu Sree</h2>
 <p align="center">A Passionate Coding Enthusiast, from VIT-AP</p>
 
 
