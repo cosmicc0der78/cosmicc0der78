@@ -57,7 +57,7 @@
 
 <div align="center">
   
-[me](https://cosmicc0der78.github.io/) · [email](mailto:indusreen78@gmail.com) · [linkedin](https://www.linkedin.com/in/indusree-nanapu-a5007b275/) 
+[resume](https://drive.google.com/file/d/1og8EYaU32cO9FMZ2ay3j9hoNFQd4eaCU/view) · [portfolio](https://cosmicc0der78.github.io/) · [email](mailto:indusreen78@gmail.com) · [linkedin](https://www.linkedin.com/in/indusree-nanapu-a5007b275/) 
 
 </div>
 
