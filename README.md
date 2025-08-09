@@ -44,13 +44,6 @@
 ![Cryptography](https://img.shields.io/badge/-Cryptography-8B008B?style=flat&logo=lock&logoColor=white)
 <img src="https://komarev.com/ghpvc/?username=cosmicc0der78" alt="Profile views" width="1" height="1" style="display: none;">
 
-
----
-<p>
-🚀 Learning by doing, tackling real-world challenges, and shaping technology with creativity. <br>
-🧭 Currently navigating the cloud-native world — mastering Docker 🐳 and Kubernetes 🐲 to build scalable, resilient systems.
-</p>
-
 </div>
 
 ---
